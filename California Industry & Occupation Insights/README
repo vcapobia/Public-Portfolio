@@ -1,0 +1,2 @@
+This project uses data downloaded from the American Community Survey to analyze the Industry and Occupational Landscape of California in regards to gender, race, income, and educatin level. The goal of this project was to provide hiring managers and students a better understanding of the current workforce landscape.
+This folder contains three Tableau Packaged Workbooks with our final visualizations, a notebook with correlation analysis, the written report outlining our insights and conclusions, in addition to the cleaned data tables from the American Community Survey
