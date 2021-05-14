@@ -1,0 +1,2 @@
+This project illustrates an end-to-end data pipeline from data extraction via Spotify API endpoints to finalized Strategic & Analytical Tableau dashboards. 
+This folder contains the Star Schema ERD, data pipeline design, packaged Tableau workbook containing two dashboards, and Python code used to extract data from Spotify API.
