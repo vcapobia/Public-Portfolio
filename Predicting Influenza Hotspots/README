@@ -1,0 +1,2 @@
+This project aims to predict which counties in California will be a hotspot for COVID-19 using binary classification methods. A logistic regression, KNN, and decision tree model were created and compared against accuracy & recall to determine the strongest model.
+This folder contains the notebook with each of the three predictive models, PowerPoint presentaion slides summarizing conclusion & results, and a written report which further discusses the problem, methodology, and results
